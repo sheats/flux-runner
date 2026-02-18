@@ -4,7 +4,6 @@ on:
   push:
     tags:
       - "v*"
-      - "runner-v*"
   workflow_dispatch:
 
 permissions:
